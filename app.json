@@ -1,0 +1,30 @@
+{
+    "AppDetails": {
+        "AppName": "WD-40",
+        "AppDescription": "World Destroyer Model 40",
+        "AppVersion": "0.0.69.2"
+    },
+
+    "AppBehaviours": {
+        "CommandPrefix": "|",
+        "AllowQuit": false,
+        "DefaultLang": "en",
+        "FallbackLang": "en",
+        "DontRun": false
+    },
+
+    "AppFiles": {
+        "token": "./auth.txt",
+        "strings": "./strings.json"
+    },
+
+    "AppCredits": {
+        "Project Management": "Winter Jeon, github:@mxjeonsg",
+        "Name Idea": "Wombat1742, discord:@wombat1742"
+    },
+
+    "AppNotes": {
+        "0": "Written for its usage specifically in Face's Attic server.",
+        "1": "Those idiots (they and me) love gambing"
+    }
+}

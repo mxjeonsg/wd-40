@@ -1,0 +1,37 @@
+{
+    "en": {
+        "BOT_EVENT_RUNNING": "Bot running!",
+        "BOT_COMMAND_DISALLOWED": "You don't appear to have permission to execute this. :|",
+        "BOT_COMMAND_DISABLED": "This command was disabled. lol",
+
+        "BOT_GENERIC_YES": "Yes",
+        "BOT_GENERIC_NO": "No"
+    },
+
+    "es": {
+        "BOT_EVENT_RUNNING": "Bot en ejecución!",
+        "BOT_COMMAND_DISALLOWED": "Parece que no tienes permiso para ejecutar esto. :p",
+        "BOT_COMMAND_DISABLED": "Este comando está desabilidado. xd",
+
+        "BOT_GENERIC_YES": "Sí",
+        "BOT_GENERIC_NO": "No"
+    },
+
+    "ro": {
+        "BOT_EVENT_RUNNING": "",
+        "BOT_COMMAND_DISALLOWED": "",
+        "BOT_COMMAND_DISABLED": "",
+
+        "BOT_GENERIC_YES": "",
+        "BOT_GENERIC_NO": ""
+    },
+
+    "ru": {
+        "BOT_EVENT_RUNNING": "",
+        "BOT_COMMAND_DISALLOWED": "",
+        "BOT_COMMAND_DISABLED": "",
+
+        "BOT_GENERIC_YES": "",
+        "BOT_GENERIC_NO": ""
+    }
+}
